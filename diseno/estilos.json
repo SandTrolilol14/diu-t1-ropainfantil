@@ -1,0 +1,29 @@
+{
+  "propietario": "SandTrolilol14",
+  "tienda": "Tiny Steps",
+  "colorSemilla": "#00838F",
+  "esquema": {
+    "claro":  { "primary": "#006972", "onPrimary": "#FFFFFF", "primaryContainer": "#9DF0FB", "onPrimaryContainer": "#004F56",
+                "secondary": "#4A6366", "onSecondary": "#FFFFFF", "tertiary": "#515E7D", "onTertiary": "#FFFFFF",
+                "surface": "#F5FAFB", "onSurface": "#171D1E", "error": "#BA1A1A", "onError": "#FFFFFF" },
+    "oscuro": { "primary": "#81D3DF", "onPrimary": "#00363C", "primaryContainer": "#004F56", "onPrimaryContainer": "#9DF0FB",
+                "secondary": "#B1CBCF", "onSecondary": "#1C3437", "tertiary": "#B9C6EA", "onTertiary": "#23304D",
+                "surface": "#0E1415", "onSurface": "#DEE4E4", "error": "#FFB4AB", "onError": "#690005" }
+  },
+  "tipografia": {
+    "familia": "Roboto",
+    "roles": {
+      "headlineSmall": { "tamano": 24, "interlineado": 32, "peso": 400 },
+      "titleLarge":    { "tamano": 22, "interlineado": 28, "peso": 400 },
+      "titleMedium":   { "tamano": 16, "interlineado": 24, "peso": 500 },
+      "bodyLarge":     { "tamano": 16, "interlineado": 24, "peso": 400 },
+      "labelLarge":    { "tamano": 14, "interlineado": 20, "peso": 500 }
+    }
+  },
+  "espaciado": { "base": 8, "margenPantalla": 16, "columnas": 4, "areaTactilMinima": 48 },
+  "componentes": ["Top app bar", "Navigation bar", "Card", "Filter chip", "Button", "Text field", "Snackbar", "Bottom sheet"],
+  "componentesPropios": [
+    { "nombre": "TarjetaProducto", "variantes": ["normal", "favorito", "agotado"] },
+    { "nombre": "SelectorTalla",   "variantes": ["disponible", "seleccionada", "sin stock"] }
+  ]
+}

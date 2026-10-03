@@ -78,5 +78,20 @@ graph TD
 ![Confirmación](capturas/wireframes/06-Confirmacion.png)
 ![Favoritos](capturas/wireframes/07-Favoritos.png)
 
+### 3.3 Guía de estilo Material Design 3
+
+**Rejilla (Grid) y Espaciado:**
+* **Columnas:** 4
+* **Márgenes:** 16 dp
+* **Múltiplos:** 8 dp
+* **Áreas táctiles mínimas:** 48x48 dp.
+
+**Contraste de color (WCAG AA):**
+El Theme Builder asegura los contrastes. Ratios comprobados:
+* Primary / On-Primary: > 4.5:1 (Pasa AA)
+* Secondary / On-Secondary: > 4.5:1 (Pasa AA)
+* Surface / On-Surface: > 7.0:1 (Pasa AAA)
+* Error / On-Error: > 4.5:1 (Pasa AA)
+
 
     
