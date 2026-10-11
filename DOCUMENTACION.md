@@ -94,4 +94,12 @@ El Theme Builder asegura los contrastes. Ratios comprobados:
 * Error / On-Error: > 4.5:1 (Pasa AA)
 
 
-    
+## Reto 4: Prototipo de Alta Fidelidad
+Se han diseñado 7 pantallas en alta fidelidad aplicando la guía de estilo basada en el color semilla #00838F y los componentes oficiales de Material Design 3.
+
+**Componentes propios creados con Auto Layout y Variantes:**
+1. **TarjetaProducto:** Variantes `normal`, `favorito` y `agotado`.
+2. **SelectorTalla:** Variantes `disponible`, `seleccionada` y `sin stock`.
+
+**Enlace al prototipo interactivo:**
+(https://www.figma.com/design/oVxtQzOD1FQKdAd4W3LtBz/Wireframes?node-id=16-2&t=k7DcMQcoYZegusVU-1)
